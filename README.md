@@ -7,7 +7,11 @@ Developing a test driven method that when given a number will return the pertine
 
 ## Usage
 
-`command_to_start` irb
+`irb
+ > require './lib/RomanNumerals.rb'
+ > RomanNumerals.convert(5)
+ > "V"
+ `
 
 ## Running tests
 
