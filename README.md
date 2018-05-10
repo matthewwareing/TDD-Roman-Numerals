@@ -7,8 +7,8 @@ Developing a test driven method that when given a number will return the pertine
 
 ## Usage
 
-`irb\n
- > require './lib/RomanNumerals.rb'
+`irb`
+` > require './lib/RomanNumerals.rb' `
  > RomanNumerals.convert(5)
  > "V"
  `
